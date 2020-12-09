@@ -4,13 +4,13 @@ ghPages.publish(
   '__sapper__/export',
   {
     branch: 'main',
-    repo: 'presentation-pwa.git',
+    repo: 'presentation.git',
     user: {
       name: 'fabezio',
-      email: 'fabezio@outlook.fr'
-    }
+      email: 'fabezio@outlook.fr',
+    },
   },
   () => {
     console.log('Deploy complete!')
-  }
+  },
 )
