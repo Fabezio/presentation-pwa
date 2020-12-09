@@ -4,7 +4,7 @@ ghPages.publish(
   '__sapper__/export',
   {
     branch: 'main',
-    repo: 'presentation.git',
+    repo: 'presentation-proto.git',
     user: {
       name: 'fabezio',
       email: 'fabezio@outlook.fr',
